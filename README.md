@@ -1,8 +1,10 @@
-# HyreTalenta
-
----
+## HyreTalenta
 
 HyreTalenta is a apprentice search platform
+
+Link App:
+[DevHyre](http://dev.hyre.co.id)
+[API-DevHyre](http://api-dev.hyre.co.id)
 
 ### Documentation
 
